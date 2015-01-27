@@ -1,0 +1,27 @@
+{
+  "name": "sha1-regex",
+  "version": "1.0.0",
+  "description": "see if a string is a sha-1 hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelrhodes/sha1-regex.git"
+  },
+  "keywords": [
+    "sha1",
+    "sha-1",
+    "regex"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/sha1-regex/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/sha1-regex",
+  "devDependencies": {
+    "tape": "^3.4.0"
+  }
+}
