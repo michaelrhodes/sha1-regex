@@ -1,7 +1,7 @@
 # sha1-regex
 sha1-regex is a regular expression that matches hex-encoded sha-1 hashes.
 
-[![Build status](https://travis-ci.org/michaelrhodes/sha1-regex.png?branch=master)](https://travis-ci.org/michaelrhodes/sha1-regex)
+[![Build status](https://travis-ci.org/michaelrhodes/sha1-regex.svg?branch=master)](https://travis-ci.org/michaelrhodes/sha1-regex)
 
 ## install
 ```sh
